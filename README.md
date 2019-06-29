@@ -1,4 +1,4 @@
-# 207_demography_Math_Epitech (TECH 2 2018-2019)
+# 207_demography_math_epitech (TECH 2 2018-2019)
 
  Characterization of the link between two series of observations by linear correlation adjustment.
  
@@ -16,7 +16,7 @@ DESCRIPTION
         
     code country code
  
-EX
+EXAMPLE
 
     ./207demography EUU
     
