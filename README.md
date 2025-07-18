@@ -1,4 +1,4 @@
-# 207_demography_math_epitech (TECH 2 2018-2019)
+# 207_demography_math_epitech
 
  Characterization of the link between two series of observations by linear correlation adjustment.
  
@@ -30,5 +30,3 @@ EXAMPLE
         Root-mean-square deviation: 5.32
         Population in 2050: 574.54
         Correlation: 0.9820
-        
- Aymeric Astaing - EPITECH PARIS PROMO 2022
